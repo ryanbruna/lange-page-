@@ -1,0 +1,43 @@
+#menu{ background-color:#4b4fb2;
+justify-content: space-between;
+list-style: none;
+
+}
+.inicio{
+    background-color:#4b4fb2;
+}
+.ul{
+    color: white;
+    justify-content: space-between;
+    list-style: none;
+    display: flex;
+    
+}
+.titulo{
+    color: white; 
+}
+.button{
+    color:white;
+    background-color: rgb(68, 175, 139);
+}
+.arg{
+    color:black;
+    text-align: center;
+}
+#especificado{
+    color: #4b4fb2;
+}
+.imagem{
+    color:black;
+    display: flex;
+    justify-content: space-around;
+
+}
+.container {
+    width: 150px; 
+}
+.etapa{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
